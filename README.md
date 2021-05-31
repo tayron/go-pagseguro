@@ -6,7 +6,7 @@ Biblioteca de integração com Pagseguro que permite:
 
 Esta biblioteca é uma versão atualizada da biblioteca [diegomgarcia/pagsego](https://github.com/diegomgarcia/pagsego).
 
-## Teste untiário
+## Teste unitário
 
 ### Configuração
 Abra o arquivo: **tests/pagseguro_test.go** e altere as variaveis com os dados de configuração da sua conta no [Sandbox do Pagseguro](https://acesso.pagseguro.uol.com.br/sandbox).
